@@ -1,0 +1,30 @@
+INFO:root:WaitSecs
+INFO:root:Build 1000
+INFO:root:WaitSecs: 30
+INFO:root:Build 1000
+INFO:root:WaitSecs: 30
+INFO:root:WaitSecs
+INFO:root:Build 1000
+INFO:root:Build 1000
+INFO:root:WaitSecs: 30
+INFO:root:WaitSecs: 30
+INFO:root:WaitSecs
+INFO:root:Build 1000
+INFO:root:Build 1000
+INFO:root:WaitSecs: 30
+INFO:root:WaitSecs: 30
+INFO:root:WaitSecs
+INFO:root:Build 1000
+INFO:root:WaitSecs: 30
+INFO:root:WaitSecs: 30
+INFO:root:WaitSecs
+INFO:root:Build 1000
+INFO:root:Build 1000
+INFO:root:WaitSecs: 30
+INFO:root:WaitSecs: 30
+INFO:root:WaitSecs
+INFO:root:Build 1000
+INFO:root:WaitSecs: 30
+INFO:root:WaitSecs
+INFO:root:Build 1000
+INFO:root:WaitSecs: 30
